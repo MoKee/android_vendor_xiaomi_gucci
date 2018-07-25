@@ -27,6 +27,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/gucci/proprietary/bin/radish:system/bin/radish \
     vendor/xiaomi/gucci/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/xiaomi/gucci/proprietary/bin/time_daemon:system/bin/time_daemon \
+    vendor/xiaomi/gucci/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
+    vendor/xiaomi/gucci/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/xiaomi/gucci/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/xiaomi/gucci/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/xiaomi/gucci/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
